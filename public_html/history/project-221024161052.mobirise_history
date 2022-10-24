@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ASNAB-DF",
-    "currentPage": "index.html",
+    "currentPage": "beneficios.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 138,
-    "versionPublish": "5.6.11",
+    "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/asnab-logo-128x128.png",
     "": "on",
