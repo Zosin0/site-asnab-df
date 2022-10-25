@@ -98,7 +98,7 @@ body {
   background-color: #879a9f !important;
 }
 .bg-danger {
-  background-color: #b1a374 !important;
+  background-color: #149dcc !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -202,8 +202,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -211,14 +211,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -366,22 +366,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #7a6e45;
-  color: #7a6e45;
+  border-color: #0b566f;
+  color: #0b566f;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #b1a374;
-  border-color: #b1a374;
+  background-color: #149dcc;
+  border-color: #149dcc;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -433,7 +433,7 @@ body {
   color: #879a9f !important;
 }
 .text-danger {
-  color: #b1a374 !important;
+  color: #149dcc !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -463,7 +463,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #7a6e45 !important;
+  color: #0b566f !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -483,7 +483,7 @@ a.text-black:focus {
   background-color: #879a9f;
 }
 .alert-danger {
-  background-color: #b1a374;
+  background-color: #149dcc;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -533,7 +533,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #dfd9c6;
+  color: #b4e6f8;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -2745,7 +2745,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-sdZsyq1lvE .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   font-weight: 300;
 }
 .cid-sdZsyq1lvE .mbr-content-text {
@@ -3319,22 +3319,30 @@ section.lazy-placeholder:after {
 .cid-s9CXUq64ho .mbr-section-btn {
   color: #232323;
 }
-.cid-s9CXUqXdFR {
-  background-image: url("../../../assets/images/34-1280x903.jpg");
+.cid-t7IXRj8Kad {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/fundo5-1600x1067.png");
 }
-@media (min-width: 992px) {
-  .cid-s9CXUqXdFR .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-t7IXRj8Kad h1 {
+  color: #616161;
 }
-@media (max-width: 991px) {
-  .cid-s9CXUqXdFR .mbr-figure {
-    padding-top: 3rem;
-  }
+.cid-t7IXRj8Kad h2,
+.cid-t7IXRj8Kad h3,
+.cid-t7IXRj8Kad p {
+  color: #767676;
 }
-.cid-s9CXUqXdFR .mbr-text,
-.cid-s9CXUqXdFR .mbr-section-btn {
-  text-align: left;
+.cid-t7IXRj8Kad .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-t7IXRj8Kad H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t7IXRj8Kad .mbr-text,
+.cid-t7IXRj8Kad .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-s9CXUtqmTn {
   background-image: url("../../../assets/images/fb58f9068f96281511a7601255f1-1461029-1200x696.jpg");
@@ -3451,7 +3459,7 @@ section.lazy-placeholder:after {
 }
 .cid-sDFg4eniOr .mbr-text,
 .cid-sDFg4eniOr .mbr-section-btn {
-  color: #232323;
+  color: #073b4c;
 }
 .cid-scGeIbQ2s1 {
   background-image: url("../../../assets/images/logo-fenelonf-2-1080x720.png");
@@ -3480,7 +3488,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-sDFn6isJKR {
-  background-image: url("../../../assets/images/acupuncture-4175625-960-721-960x640.jpg");
+  background-image: url("../../../assets/images/captura-de-tela-de-2022-01-07-16-18-36-669x712.png");
 }
 .cid-sDFn6isJKR P {
   color: #767676;
@@ -3510,6 +3518,23 @@ section.lazy-placeholder:after {
 }
 .cid-scGo2eig1x H1 {
   color: #232323;
+}
+.cid-s9CXUqXdFR {
+  background-image: url("../../../assets/images/34-1280x903.jpg");
+}
+@media (min-width: 992px) {
+  .cid-s9CXUqXdFR .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s9CXUqXdFR .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s9CXUqXdFR .mbr-text,
+.cid-s9CXUqXdFR .mbr-section-btn {
+  text-align: left;
 }
 .cid-sdkYL8kOGA {
   padding-top: 120px;
@@ -4668,6 +4693,9 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-sdkYiGyhSf P {
+  text-align: left;
 }
 .cid-scLyoZA2FV .navbar {
   background: #ffffff;
